@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mypublicip",
-    version="1.0.2",
+    version="1.0.3",
     author="ManuNatale",
-    author_email="manuelenatale@hotmail.com",
+    author_email="",
     description="Get the public IP address",
     long_description=long_description,
     long_description_content_type="text/markdown",

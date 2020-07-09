@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: mypublicip
-Version: 1.0.2
+Version: 1.0.3
 Summary: Get the public IP address
 Home-page: https://github.com/ManuNatale/mypublicip
 Author: ManuNatale
-Author-email: manuelenatale@hotmail.com
+Author-email: 
 License: UNKNOWN
 Description: # mypublicip
         Python package to get the public IP address
