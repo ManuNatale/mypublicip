@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: mypublicip
+Version: 1.0.2
+Summary: Get the public IP address
+Home-page: https://github.com/ManuNatale/mypublicip
+Author: ManuNatale
+Author-email: manuelenatale@hotmail.com
+License: UNKNOWN
+Description: # mypublicip
+        Python package to get the public IP address
+        
+        **Exemple:**
+        ```
+        import mypublicip
+        
+        ip = mypublicip.ip()
+        
+        print(ip)
+        ```
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.3
+Description-Content-Type: text/markdown
